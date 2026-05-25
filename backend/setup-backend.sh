@@ -6,7 +6,7 @@
 set -euo pipefail
 
 # ── Configuration ────────────────────────────────────────────
-RDS_ENDPOINT="happypaws-db.c3oc42g2agem.ap-south-1.rds.amazonaws.com"
+RDS_ENDPOINT="happypaws-db.cvas0qse4i7j.ap-south-1.rds.amazonaws.com"
 DB_USER="happypaws"
 DB_PASS="HappyPaws123"
 
